@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Vision And Mission",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Supportive Environment",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Focus On Feedback",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Value Added Workshop",
     icon: creator,
   },
 ];
@@ -116,55 +116,52 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: " Vision And Mission",
+    company_name: "NIT Kolkata",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I'll be there to help you with your studies, organize study groups, and provide study resources.",
+      "I believe everyone's voice should be heard. I'll work to make sure everyone feels included and valued.",
+      "I'll keep you informed about college events and important news through regular updates . ",
+      " I'll be easy to reach and approachable, always available to listen to your concerns and ideas",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Skill Development",
+    company_name: "NIT Kolkata",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      points: [
+      "Launch skill development programs focusing on technical skills required in the AI & ML field Which Will Be Very Benificial For Students .",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in code reviews and providing constructive feedback to other developers I Personnaly Will Guide All.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Admin Of Social Media Group",
+    company_name: "Whatsapp",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I'm also the admin of social media groups that bring students together. ",
+      "These groups help you make friends, share ideas, and support each other.",
+      "Let's create a strong online community where we can connect, learn, and grow together Our Vision Basically Building Student Friendships ",
+    
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Inclusivity and Diversity",
+    company_name: "NIT Kolkata",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I believe in a college where every student, regardless of their background, feels welcome and included.",
+      "I'll work to celebrate our diversity and ensure that all voices are heard and valued in our college community.",
+      "College is not just about academics; it's about making lifelong memories and friendships. I'll organize engaging activities and events to bring students together.",
+      "I'll listen to your ideas and work to implement them, making sure your college experience is enjoyable and fulfilling.",
     ],
   },
 ];
@@ -172,26 +169,21 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Raubins has always possessed a visionary approach, just like our great leaders. His ability to see the bigger picture and set ambitious goals is truly inspiring.",
+    name: "Ramesh Sharma",
+    designation: "AI/ML 2nd Year",
+     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I've witnessed Raubins's empathetic leadership firsthand. He listens to everyone's concerns and is genuinely concerned about their well-being, much like a compassionate leader should be.",
+    name: "Priya Patel",
+   image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Raubins doesn't hesitate when it comes to making important decisions. His decisive action, much like our strong leaders of the past, ensures that progress is made.",
+    name: " Aarav Kapoor",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
